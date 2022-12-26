@@ -1,0 +1,3 @@
+Start off by creating a GitHub repository
+Add a file
+clone this repository to you local machine.
